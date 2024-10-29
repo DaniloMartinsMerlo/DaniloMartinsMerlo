@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f78181&height=150&section=header&text=Olá!%20Eu%20sou%20o%20Danilo%20Martins%20%F0%9F%91%8B&fontSize=30&animation=fadeIn&fontColor=EEE&fontAlignY=30" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75858&center=true&width=600&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Danilo+Martins+Merlo+Tenho+20+anos+E+sou+de+S%C3%A3o+Paulo+Sou+estudante+de+engenharia+da+computa%C3%A7%C3%A3o;Tenho+20+anos;Sou+de+S%C3%A3o+Paulo;Sou+estudante+de+engenharia+da+computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 ***
 
 ## Contatos :mailbox:
